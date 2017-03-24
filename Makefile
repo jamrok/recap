@@ -1,6 +1,6 @@
 DESTDIR       ?=
 BINPATH       ?= /sbin
-PREFIX        ?= /usr/local
+PREFIX        ?= /usr
 BINDIR        ?= $(PREFIX)$(BINPATH)
 MANDIR        ?= $(PREFIX)/share/man
 DOCDIR        ?= $(PREFIX)/share/doc
